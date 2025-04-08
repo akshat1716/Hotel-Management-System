@@ -1,0 +1,1 @@
+Developed a Python-based hotel management system to optimize and automate hotel operations. The system features an intuitive and user-friendly Tkinter GUI, ensuring a seamless experience for hotel staff. To enhance efficiency, I integrated a MySQL database, enabling structured and secure data management.   
